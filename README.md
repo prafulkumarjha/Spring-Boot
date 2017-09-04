@@ -1,4 +1,4 @@
-# Spring-Boot
+# Robot
 
 This section describes how can we create a robot, perform any operation with robot and get list of all the robots.
 
